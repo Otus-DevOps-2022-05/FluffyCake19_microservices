@@ -1,0 +1,9 @@
+PS C:\DevOps_OTUS\GitHub\FluffyCake19_microservices> docker images
+REPOSITORY                TAG       IMAGE ID       CREATED         SIZE
+tzotova/ubuntu-tmp-file   latest    6cb19f17f045   6 seconds ago   63.1MB
+ubuntu                    18.04     8d5df41c547b   5 days ago      63.1MB
+alpine/git                latest    22a2874e1112   2 weeks ago     39.5MB
+hello-world               latest    feb5d9fea6a5   10 months ago   13.3kB
+
+
+Контейнер собирается из образа. Контейнер имеет настройки сети. Контейнер является самостоятельной самодостаточной единцей.
